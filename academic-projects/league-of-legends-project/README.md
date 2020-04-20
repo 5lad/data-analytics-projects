@@ -1,7 +1,7 @@
 # league-of-legends-project
 This directory contains a League of Legends (also known as LoL, a multiplayer online battle arena game) group project I worked on as part of the Data Analytics (BU.510.650) graduate class I took at Johns Hopkins Carey Business School in Fall 2019. This project entails:
 1. Building a Logistic Regression model to help eSports team coaches/managers formulate the optimal team composition of Champion classes and maximize their chances of winning
-2. Building a Multiple Linear Regression model to help eSports team coaches/managers identify the biggest factor contributing to a team?s KDA (Kills+Assists / Deaths ratio).
+2. Building a Multiple Linear Regression model to help eSports team coaches/managers identify the biggest factor contributing to a team's KDA (Kills+Assists / Deaths ratio).
 
 **_Datasets used:_**
 * [_League of Legends Ranked Matches_](https://www.kaggle.com/paololol/league-of-legends-ranked-matches)
