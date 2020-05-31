@@ -1,4 +1,4 @@
-# optimizing-league-of-legends-esports-team-performance
+# optimizing-LoL-esports-team-performance
 This dir contains a League of Legends (an online battle arena game) group project I worked on as part of the Data Analytics (BU.510.650) graduate class at Johns Hopkins Carey Business School in Fall 2019. What we did:
 1. Built a Logistic Regression model to help eSports team coaches/managers formulate the optimal team composition of Champion classes and maximize their chances of winning
 2. Built a Multiple Linear Regression model to help eSports team coaches/managers identify the biggest factor contributing to a team's KDA (= Kills+Assists / Deaths ratio).
