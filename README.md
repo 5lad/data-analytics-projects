@@ -1,2 +1,2 @@
 # data-analytics-projects
-This repository contains various Data Analytics projects I have worked on to this day.
+This repo contains my past Data Analytics-related work, both professional and academic.
